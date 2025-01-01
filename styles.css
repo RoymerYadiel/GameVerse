@@ -9,9 +9,9 @@ body {
 
 /* Header Styles */
 header {
-    display: flex;              /* Habilita flexbox */
-    justify-content: start;    /* Centra horizontalmente */
-    align-items: center;        /* Centra verticalmente */
+    display: flex;           
+    justify-content: start;   
+    align-items: center;       
     background-color: #222;
     color: #fff;
     padding: 1rem;
@@ -31,16 +31,15 @@ header h1 {
 }
 
 body {
-    padding-top: 70px; /* Ajusta este valor si es necesario dependiendo de la altura del header */
+    padding-top: 70px; 
 }
 
 /* Search Bar Styles */
 .search-bar {
-    display: flex;               /* Alinea los elementos en una fila */
-    justify-content: center;     /* Centra los elementos horizontalmente */
-    align-items: end;         /* Centra los elementos verticalmente */
+    display: flex;             
+    justify-content: center;    
+    align-items: end;        
     margin: 1rem auto;
-                /* Añade espacio horizontal */
 }
 
 .search-bar input[type="text"] {
@@ -139,18 +138,18 @@ body {
 
 /*Footer*/
 footer {
-    background-color: #222;   /* Fondo oscuro para el footer */
-    color: #e68a00;              /* Color blanco para el texto */
-    text-align: center;       /* Centra el texto */
-    padding: 1rem;            /* Espaciado alrededor del texto */
-    position: relative;       /* Asegura que se mantenga al final de la página */
+    background-color: #222;   
+    color: #e68a00;         
+    text-align: center;      
+    padding: 1rem;            
+    position: relative;    
     bottom: 0;
     width: 100%;
 }
 
 footer p {
-    margin: 0;                /* Elimina márgenes alrededor del texto */
-    font-size: 0.9rem;        /* Tamaño de fuente pequeño */
+    margin: 0;               
+    font-size: 0.9rem;       
 }
 
 /* Responsive Design */
