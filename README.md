@@ -11,7 +11,7 @@ Este es un sitio web estático que muestra una página básica con HTML, CSS. Es
 ## Instrucciones de uso
 
 No es necesario instalar nada para ver este sitio. Solo tienes que hacer clic en el siguiente enlace para acceder al sitio web:
-[Enlace a mi sitio web](https://<tu-nombre-de-usuario>.github.io/<nombre-del-repositorio>/)
+https://roymeryadiel.github.io/GameVerse/
 
 ## Tecnologías utilizadas
 
