@@ -175,9 +175,9 @@ footer p {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 300px) {
     header h1 {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     footer {
@@ -185,34 +185,34 @@ footer p {
     }
 
     footer p {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
 
     .search-bar {
         flex-direction: column;
-        align-items: stretch;
-        padding: 0 2rem; 
+        align-items: center;
+        padding: 0 1rem;
     }
 
     .search-bar input[type="text"] {
         width: 100%;
-        font-size: 0.9rem;
-        margin-bottom: 0.5rem; 
+        font-size: 0.8rem;
+        margin-bottom: 0.5rem;
     }
 
     .search-bar input[type="submit"] {
         width: 100%;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         margin-left: 0;
         height: 2.5rem;
     }
 
     .game-list {
-        padding: 1rem 2rem;
+        padding: 1rem;
     }
 
     .suggestions {
-        width: calc(100% - 4rem);
+        width: calc(100% - 2rem);
     }
 }
 
